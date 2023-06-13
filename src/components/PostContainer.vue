@@ -1,0 +1,13 @@
+<template>
+  <div class="post-container">
+    <PostCard />
+  </div>
+</template>
+
+<script lang="ts" setup>
+import PostCard from './PostCard.vue';
+</script>
+
+<style scoped>
+
+</style>
