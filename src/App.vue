@@ -1,11 +1,11 @@
 <template>
-  <h1>Hola mundo!</h1>
-  <PostContainer />
+  <ExampleFor />
 </template>
 
 <script lang="ts" setup>
-import PostContainer from "./components/PostContainer.vue";
+
+import ExampleFor from "./components/ExampleFor.vue";
+
 </script>
 
-<style>
-</style>
+<style></style>
