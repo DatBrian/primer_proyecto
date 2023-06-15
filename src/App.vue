@@ -1,10 +1,10 @@
 <template>
-  <ExampleFor />
+  <ModelForm />
 </template>
 
 <script lang="ts" setup>
 
-import ExampleFor from "./components/ExampleFor.vue";
+import ModelForm from "./components/ModelForm.vue";
 
 </script>
 
