@@ -1,10 +1,10 @@
 <template>
-  <ModelForm />
+  <CycleOption />
 </template>
 
 <script lang="ts" setup>
 
-import ModelForm from "./components/ModelForm.vue";
+import CycleOption from "./components/CycleOption.vue";
 
 </script>
 
