@@ -1,10 +1,10 @@
 <template>
-  <CycleOption />
+  <ExampleSelective />
 </template>
 
 <script lang="ts" setup>
 
-import CycleOption from "./components/CycleOption.vue";
+import ExampleSelective from "./components/ExampleSelective.vue";
 
 </script>
 
